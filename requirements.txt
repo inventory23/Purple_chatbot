@@ -1,1 +1,6 @@
-# Add project dependencies here
+gunicorn
+SentenceTransformer
+ollama
+faiss
+pickle
+numpy
