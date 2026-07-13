@@ -1,5 +1,4 @@
 gunicorn
-pickle
 pymupdf
 sentence-transformers
 faiss-cpu
