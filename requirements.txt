@@ -1,6 +1,12 @@
 gunicorn
-SentenceTransformer
-ollama
-faiss
 pickle
+pymupdf
+sentence-transformers
+faiss-cpu
+langchain
+langchain-community
 numpy
+pandas
+tqdm
+flask
+ollama
